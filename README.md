@@ -22,9 +22,3 @@ AI2: https://bralma-ml-project-ai-ukhousing.onrender.com/
  
 #### Check here for a video of the working website:
 https://youtu.be/fnm2-Stbcek
-
-
-
-
-
-# Bralma
